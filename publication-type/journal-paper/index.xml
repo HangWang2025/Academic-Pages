@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Hang&#39;s Blog</title>
-    <link>https://hangwang2025.github.io/tag/source-themes/</link>
-      <atom:link href="https://hangwang2025.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Journal paper | Hang&#39;s Blog</title>
+    <link>https://hangwang2025.github.io/publication-type/journal-paper/</link>
+      <atom:link href="https://hangwang2025.github.io/publication-type/journal-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hangwang2025.github.io/media/icon_hu5a510b901cd77480f8a0fab6f922770b_1231201_512x512_fill_lanczos_center_3.png</url>
-      <title>Source Themes</title>
-      <link>https://hangwang2025.github.io/tag/source-themes/</link>
+      <title>Journal paper</title>
+      <link>https://hangwang2025.github.io/publication-type/journal-paper/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://hangwang2025.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hangwang2025.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Sequential Feature Screening for Generalized Linear Models with Sparse Ultra-High Dimensional Data</title>
